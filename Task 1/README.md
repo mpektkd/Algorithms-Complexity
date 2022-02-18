@@ -1,4 +1,4 @@
-# representation-of-number-with-powers-of-2-
+# Numbers representation with powers of 2
 
 Given a number N, 1 <= N <= 1.000.000.000 
 we have to find if N can be witten as the sum of exactly K powers of 2(1 <= K <= 200.000)
