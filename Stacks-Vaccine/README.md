@@ -1,4 +1,4 @@
-### Problem 2: Vaccine 💉 (Java Implementation)
+### Problem 2: Vaccine (Java Implementation)
 
 Given a stack of RNA nitrogenous bases ("A", "U", "G", "C"), we consider the following possible moves that we can do, in order to create another stack in which all the nitrogenous bases of the given stack are in groups (all "A"s together, all "T"s together and so on). The moves are:
 
